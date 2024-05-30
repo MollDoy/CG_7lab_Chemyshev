@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1715423635 source:d:\1\РЎС‘РјР°\РЈС‡С‘Р±Р°\2 РєСѓСЂСЃ\2 СЃРµРјРµСЃС‚СЂ\РљРѕРјРїСЊСЋС‚РµСЂРЅР°СЏ РіСЂР°С„РёРєР°\7 Р»Р°Р±Р°\stb-master\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"camera.h"
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"camera.h"
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"camera.h"
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"camera.h"
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"camera.h"
+
+1713523972 source:d:\1\РЎС‘РјР°\РЈС‡С‘Р±Р°\2 РєСѓСЂСЃ\2 СЃРµРјРµСЃС‚СЂ\РљРѕРјРїСЊСЋС‚РµСЂРЅР°СЏ РіСЂР°С„РёРєР°\7 Р»Р°Р±Р°\stb-master\camera.h
+
+1715423554 source:d:\1\РЎС‘РјР°\РЈС‡С‘Р±Р°\2 РєСѓСЂСЃ\2 СЃРµРјРµСЃС‚СЂ\РљРѕРјРїСЊСЋС‚РµСЂРЅР°СЏ РіСЂР°С„РёРєР°\7 Р»Р°Р±Р°\stb-master\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+	<iostream>
+
+1715423554 source:d:\1\Сёма\Учёба\2 курс\2 семестр\Компьютерная графика\7 лаба\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+	<iostream>
+
+1713523972 d:\1\Сёма\Учёба\2 курс\2 семестр\Компьютерная графика\7 лаба\camera.h
+
+1717086981 source:d:\1\Сёма\Учёба\2 курс\2 семестр\Компьютерная графика\7 лаба\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"camera.h"
+
